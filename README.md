@@ -6,3 +6,6 @@ user can create, delete and update only his/her own post.
 user can update profile. 
 ***Technology used: react, redux, node, express, mongodb***
 
+![](backend/images/websiteView.png)
+
+
